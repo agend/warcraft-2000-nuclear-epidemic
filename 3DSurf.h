@@ -1,0 +1,15 @@
+void InitRenderStack();
+void SetStackSize(int STSize);
+short GetHeight(int x,int y);
+void SetLight(int Ldx,int Ldy,int Ldz);
+char* RenderSquare(int x,int y);
+char* RenderMiniSquare(int x,int y);
+void ClearRender(int x,int y);
+void AddHeight(int x,int y,int dh);
+void CreateBlob(int x,int y,int h,int r);
+void InitRenderMap();
+int GetHig(int x,int y);
+void RotateTeta();
+void RotateTetaI();
+void RotatePhi();
+void RotatePhiI();

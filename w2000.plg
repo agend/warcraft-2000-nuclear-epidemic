@@ -1,0 +1,74 @@
+--------------------Configuration: ddexam - Win32 Debug--------------------
+Begining build with project "\\Write\d\Sources\w2000.dsp", at root.
+Active configuration is Win32 (x86) Application (based on Win32 (x86) Application)
+
+Project's tools are:
+			"32-bit C/C++ Compiler for 80x86" with flags "/nologo /MLd /W3 /Gm /GX /Zi /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /Fp"Debug/w2000.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /c "
+			"OLE Type Library Maker" with flags "/nologo /D "_DEBUG" /mktyplib203 /o NUL /win32 "
+			"Win32 Resource Compiler" with flags "/l 0x419 /d "_DEBUG" "
+			"Browser Database Maker" with flags "/o"Debug/w2000.bsc" "
+			"COFF Linker for 80x86" with flags "kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:windows /incremental:yes /pdb:"Debug/w2000.pdb" /debug /machine:I386 /out:"Debug/w2000.exe" "
+			"Custom Build" with flags ""
+			"<Component 0xa>" with flags ""
+
+Creating temp file "C:\WINDOWS\TEMP\RSPD070.TMP" with contents <kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:windows /incremental:yes /pdb:"Debug/w2000.pdb" /debug /machine:I386 /out:"Debug/w2000.exe" 
+.\Debug\Lines.obj
+.\Debug\menu.obj
+.\Debug\MoveToXY.obj
+.\Debug\Resfile.obj
+.\Debug\3DSurf.obj
+.\Debug\AntiBug.obj
+.\Debug\Build.obj
+.\Debug\Cdirsnd.obj
+.\Debug\Crowd.obj
+.\Debug\Cwave.obj
+.\Debug\Ddini.obj
+.\Debug\Dialogs.obj
+.\Debug\Fastdraw.obj
+.\Debug\Find.obj
+.\Debug\FlyObj.obj
+.\Debug\fog.obj
+.\Debug\GameSound.obj
+.\Debug\GVClass.obj
+.\Debug\Hint.obj
+.\Debug\Interface.obj
+.\Debug\Legion.obj
+.\Debug\LoadSave.obj
+.\Debug\mapa.obj
+.\Debug\MapEdit.obj
+.\Debug\Megapolis.obj
+.\Debug\Mouse_X.obj
+.\Debug\MousZone.obj
+.\Debug\MPlayer.obj
+.\Debug\Multi.obj
+.\Debug\Nation.obj
+.\Debug\Nature.obj
+.\Debug\Navorots.obj
+.\Debug\Nuclear.obj
+.\Debug\Select.obj
+.\Debug\SelProp.obj
+.\Debug\Strange.obj
+.\Debug\stRecog.obj
+.\Debug\TopZones.obj
+.\Debug\Transp.obj
+.\Debug\Upgrade.obj
+.\Debug\Video.obj
+.\Debug\walls.obj
+.\Debug\War2000.obj
+.\Debug\Water.obj
+.\Debug\Water_AI.obj
+.\Debug\Weapon.obj
+"C:\Program Files\DevStudio\Vc\Lib\Ddraw.lib"
+.\dplayx.lib
+.\dsound.lib
+.\Winmm.lib>
+Creating command line "link.exe @C:\WINDOWS\TEMP\RSPD070.TMP" 
+Linking...
+nafxcwd.lib(thrdcore.obj) : error LNK2001: unresolved external symbol __endthreadex
+nafxcwd.lib(thrdcore.obj) : error LNK2001: unresolved external symbol __beginthreadex
+Debug/w2000.exe : fatal error LNK1120: 2 unresolved externals
+Error executing link.exe.
+
+
+
+w2000.exe - 3 error(s), 0 warning(s)

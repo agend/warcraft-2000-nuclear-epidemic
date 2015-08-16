@@ -1,0 +1,323 @@
+ON_MOUSE_CLICK	4
+Sound\Human_Sounds\Miscellaneous\tree1.wav
+Sound\Human_Sounds\Miscellaneous\tree2.wav
+Sound\Human_Sounds\Miscellaneous\tree3.wav
+Sound\Human_Sounds\Miscellaneous\tree4.wav
+ON_FLYAXE 3
+Sound\Human_Sounds\Miscellaneous\axe.wav
+Sound\Human_Sounds\Miscellaneous\axe.wav
+Sound\Human_Sounds\Miscellaneous\axe.wav
+ON_EXPLOSION 3
+Sound\Human_Sounds\Miscellaneous\explode.wav
+Sound\Human_Sounds\Miscellaneous\explode.wav
+Sound\Human_Sounds\Miscellaneous\explode.wav
+ON_SWORDBEAT 3
+Sound\Human_Sounds\Miscellaneous\sword1.wav
+Sound\Human_Sounds\Miscellaneous\sword2.wav
+Sound\Human_Sounds\Miscellaneous\sword3.wav
+ON_FLYFIRE 2
+Sound\Human_Sounds\Miscellaneous\fireball.wav
+Sound\Human_Sounds\Miscellaneous\firehit.wav
+ON_KATAPULT 3
+Sound\Orc_Sounds\Miscellaneous\catapult.wav
+Sound\Orc_Sounds\Miscellaneous\catapult.wav
+Sound\Orc_Sounds\Miscellaneous\catapult.wav
+FIST  6
+Sound\Orc_Sounds\Miscellaneous\fist.wav
+Sound\Orc_Sounds\Miscellaneous\fist.wav
+Sound\Orc_Sounds\Miscellaneous\fist.wav
+Sound\Orc_Sounds\Miscellaneous\punch.wav
+Sound\Orc_Sounds\Miscellaneous\thunk.wav
+Sound\Orc_Sounds\Miscellaneous\bowhit.wav
+//**************************************************//
+//*****************  ORCS SOUNDS  ******************//
+//**************************************************//
+//===================================OPEON
+O_OPEON_SELECT 3
+Sound\Orc_Sounds\Basic\Opissed1.wav
+Sound\Orc_Sounds\Basic\Opissed2.wav
+Sound\Orc_Sounds\Basic\Opissed3.wav
+O_OPEON_COMMAND 2
+Sound\Orc_Sounds\Basic\Opissed5.wav
+Sound\Orc_Sounds\Basic\Opissed7.wav
+O_OPEON_READY 1
+Sound\Orc_Sounds\Peon\Pnready.wav
+//===================================OGRUNT
+O_OGRUNT_SELECT 2
+Sound\Orc_Sounds\Basic\Owhat4.wav
+Sound\Orc_Sounds\Basic\Owhat5.wav
+O_OGRUNT_COMMAND 5
+Sound\Orc_Sounds\Basic\Owhat1.wav
+Sound\Orc_Sounds\Basic\Owhat2.wav
+Sound\Orc_Sounds\Basic\Owhat3.wav
+Sound\Orc_Sounds\Basic\Owhat5.wav
+Sound\Orc_Sounds\Basic\Oyessir4.wav
+O_OGRUNT_READY 1
+Sound\Orc_Sounds\Basic\Oready.wav
+//===================================OTOPOR
+O_OTOPOR_SELECT 3
+Sound\Orc_Sounds\Troll\Trwhat1.wav
+Sound\Orc_Sounds\Troll\Trwhat2.wav
+Sound\Orc_Sounds\Troll\Trwhat3.wav
+O_OTOPOR_COMMAND 2
+Sound\Orc_Sounds\Troll\Tryessr1.wav
+Sound\Orc_Sounds\Troll\Tryessr2.wav
+O_OTOPOR_READY 1
+Sound\Orc_Sounds\Troll\Trready.wav
+O_OTOPOR_DEATH 1
+Sound\Orc_Sounds\Troll\Death.wav
+//===================================OZHOPPY
+O_OZHOPPY_SELECT 3
+Sound\Orc_Sounds\Ogre\Ogwhat4.wav
+Sound\Orc_Sounds\Ogre\Ogwhat2.wav
+Sound\Orc_Sounds\Ogre\Ogwhat3.wav
+O_OZHOPPY_COMMAND 3
+Sound\Orc_Sounds\Ogre_Mage\Omyessr1.wav
+Sound\Orc_Sounds\Ogre_Mage\Omyessr2.wav
+Sound\Orc_Sounds\Ogre_Mage\Omyessr3.wav
+O_OZHOPPY_READY 1
+Sound\Orc_Sounds\Ogre_Mage\Omready.wav
+O_OZHOPPY_DEATH 1
+Sound\Orc_Sounds\Ogre\Death.wav
+//===================================ODRAGON
+O_ODRAGON_SELECT 2
+Sound\Orc_Sounds\dragon\dryessr1.wav
+Sound\Orc_Sounds\dragon\dryessr2.wav
+O_ODRAGON_COMMAND 3
+Sound\Orc_Sounds\dragon\drwhat.wav
+Sound\Orc_Sounds\dragon\dryessr1.wav
+Sound\Orc_Sounds\dragon\dryessr2.wav
+O_ODRAGON_READY 1
+Sound\Orc_Sounds\dragon\drready.wav
+//==================================OHORCE
+O_OHORCE_SELECT 1
+Sound\Orc_Sounds\Death_Knight\Dkwhat1.wav
+O_OHORCE_COMMAND 4
+Sound\Orc_Sounds\Death_Knight\Dkwhat2.wav
+Sound\Orc_Sounds\Death_Knight\Dkyessr1.wav
+Sound\Orc_Sounds\Death_Knight\Dkyessr2.wav
+Sound\Orc_Sounds\Death_Knight\Dkpissd1.wav
+O_OHORCE_READY 1
+Sound\Orc_Sounds\Death_Knight\Dkready.wav
+O_OHORCE_DEATH 1
+Sound\Orc_Sounds\Death_Knight\Death.wav
+//==================================OFLY
+O_OFLY_SELECT 2
+Sound\Orc_Sounds\Goblin_Zeppelin\Gbpissd1.wav
+Sound\Orc_Sounds\Goblin_Zeppelin\Gbpissd2.wav
+O_OFLY_COMMAND 1
+Sound\Orc_Sounds\Goblin_Zeppelin\Gbyessr1.wav
+O_OFLY_READY 1
+Sound\Orc_Sounds\Goblin_Zeppelin\Gbready.wav
+O_OFLY_DEATH 1
+Sound\Orc_Sounds\Goblin_Zeppelin\Death.wav
+//==================================BUILDINGS
+O_OGNOMB 1
+Sound\Orc_Sounds\Building\Alchemst.wav
+O_ODRAGB 1
+Sound\Orc_Sounds\Building\Dragon.wav
+O_OMAGB1  1
+Sound\Orc_Sounds\Building\Dthtower.wav
+O_OFOUND  1
+Sound\Orc_Sounds\Building\Foundry.wav
+O_OLUMBER 1
+Sound\Orc_Sounds\Building\Lumbmill.wav
+O_OBIGFARM 1
+Sound\Orc_Sounds\Building\Ogrecamp.wav
+O_OFARM	  1
+Sound\Orc_Sounds\Building\Ofarm.wav
+O_OSTRONG 1
+Sound\Orc_Sounds\Building\Ochant.wav
+O_OPORT	  1
+Sound\Orc_Sounds\Building\Shipbell.wav
+O_OREFIN 1
+Sound\Orc_Sounds\Building\Oilrefin.wav
+O_OKUZN	1
+Sound\Orc_Sounds\Building\Smith.wav
+//====================================SHIPS
+O_SHIP_SELECT 3
+Sound\Orc_Sounds\Ships\Oshpwht1.wav
+Sound\Orc_Sounds\Ships\Oshpwht2.wav
+Sound\Orc_Sounds\Ships\Oshpwht3.wav
+O_SHIP_COMMAND 4
+Sound\Orc_Sounds\Ships\Oshppis1.wav
+Sound\Orc_Sounds\Ships\Oshppis3.wav
+Sound\Orc_Sounds\Ships\Oshpyes2.wav
+Sound\Orc_Sounds\Ships\Oshpyes3.wav
+O_SHIP_READY 1
+Sound\Orc_Sounds\Ships\Oshppis4.wav
+O_SHIP_DEATH 1
+Sound\Orc_Sounds\Ships\Shipsink.wav
+//=======================================OKATAP
+O_OKATAP 1
+Sound\Orc_Sounds\Miscellaneous\catyessr.wav
+P_OKATAP 1
+Sound\Orc_Sounds\Miscellaneous\catyessr.wav
+//************************************************//
+//***************  PEOPLES SOUNDS  ***************//
+//************************************************//
+//===================================OGRUNT
+P_OGRUNT_SELECT 3
+Sound\Human_Sounds\Paladin\Pkwhat1.wav
+Sound\Human_Sounds\Paladin\Pkwhat2.wav
+Sound\Human_Sounds\Paladin\Pkwhat3.wav
+P_OGRUNT_COMMAND 4
+Sound\Human_Sounds\Paladin\Pkyessr1.wav
+Sound\Human_Sounds\Paladin\Pkyessr2.wav
+Sound\Human_Sounds\Paladin\Pkyessr3.wav
+Sound\Human_Sounds\Paladin\Pkyessr4.wav
+P_OGRUNT_READY 1
+Sound\Human_Sounds\Paladin\Pkready.wav
+P_OGRUNT_DEATH 1
+Sound\Human_Sounds\Paladin\Death.wav
+//===================================OPEON
+P_OPEON_SELECT 6
+Sound\Human_Sounds\Peasant\pswhat1.wav
+Sound\Human_Sounds\Peasant\pswhat2.wav
+Sound\Human_Sounds\Peasant\pswhat3.wav
+Sound\Human_Sounds\Peasant\pswhat4.wav
+Sound\Human_Sounds\Peasant\pspissd1.wav
+Sound\Human_Sounds\Peasant\pspissd5.wav
+P_OPEON_COMMAND 3
+Sound\Human_Sounds\Peasant\psyessr1.wav
+Sound\Human_Sounds\Peasant\psyessr2.wav
+Sound\Human_Sounds\Peasant\psyessr4.wav
+P_OPEON_READY 1
+Sound\Human_Sounds\Peasant\psready.wav
+P_OPEON_DEATH 1
+Sound\Human_Sounds\Peasant\death.wav
+//===================================OTOPOR
+P_OTOPOR_SELECT 4
+Sound\Human_Sounds\Elven_ArcherRander\Ewhatol1.wav
+Sound\Human_Sounds\Elven_ArcherRander\Ewhatol2.wav
+Sound\Human_Sounds\Elven_ArcherRander\Ewhatol3.wav
+Sound\Human_Sounds\Elven_ArcherRander\Ewhatol4.wav
+P_OTOPOR_COMMAND 4
+Sound\Human_Sounds\Elven_ArcherRander\Eyestol1.wav
+Sound\Human_Sounds\Elven_ArcherRander\Eyestol2.wav
+Sound\Human_Sounds\Elven_ArcherRander\Eyestol3.wav
+Sound\Human_Sounds\Elven_ArcherRander\Eyestol4.wav
+P_OTOPOR_READY 4
+Sound\Human_Sounds\Elven_ArcherRander\Epistol1.wav
+Sound\Human_Sounds\Elven_ArcherRander\Epistol2.wav
+Sound\Human_Sounds\Elven_ArcherRander\Epistol3.wav
+Sound\Human_Sounds\Elven_ArcherRander\Ereadtol.wav
+P_OTOPOR_DEATH 1
+Sound\Human_Sounds\Elven_ArcherRander\Death.wav
+//===================================OFLY
+P_OFLY_SELECT 1
+Sound\Human_Sounds\Gnomish_Flying_Mashine\Gnpissd1.wav
+P_OFLY_COMMAND 4
+Sound\Human_Sounds\Gnomish_Flying_Mashine\Gnpissd2.wav
+Sound\Human_Sounds\Gnomish_Flying_Mashine\Gnpissd4.wav
+Sound\Human_Sounds\Gnomish_Flying_Mashine\Gnpissd5.wav
+Sound\Human_Sounds\Gnomish_Flying_Mashine\Gnyessr1.wav
+P_OFLY_READY 1
+Sound\Human_Sounds\Gnomish_Flying_Mashine\Gnready.wav
+P_OFLY_DEATH 1
+Sound\Human_Sounds\Gnomish_Flying_Mashine\Death.wav
+//===================================ODRAGON
+P_ODRAGON_SELECT 2
+Sound\Human_Sounds\Gryphon_Rider\Griffon1.wav
+Sound\Human_Sounds\Gryphon_Rider\Griffon2.wav
+P_ODRAGON_COMMAND 2
+Sound\Human_Sounds\Gryphon_Rider\Griffon1.wav
+Sound\Human_Sounds\Gryphon_Rider\Griffon2.wav
+P_ODRAGON_READY 1
+Sound\Human_Sounds\Gryphon_Rider\Grwhat.wav
+//===================================OZHOPPY
+P_OZHOPPY_SELECT 2
+Sound\Human_Sounds\Knight\Knpissd1.wav
+Sound\Human_Sounds\Knight\Knpissd2.wav
+P_OZHOPPY_COMMAND 8
+Sound\Human_Sounds\Knight\Knyessr1.wav
+Sound\Human_Sounds\Knight\Knyessr2.wav
+Sound\Human_Sounds\Knight\Knyessr3.wav
+Sound\Human_Sounds\Knight\Knyessr4.wav
+Sound\Human_Sounds\Knight\Pkwhat1.wav
+Sound\Human_Sounds\Knight\Pkwhat2.wav
+Sound\Human_Sounds\Knight\Pkwhat3.wav
+Sound\Human_Sounds\Knight\Pkwhat4.wav
+P_OZHOPPY_READY 1
+Sound\Human_Sounds\Knight\Knready.wav
+P_OZHOPPY_DEATH 1
+Sound\Human_Sounds\Knight\Death.wav
+//===================================OHORCE -- mage
+P_OHORCE_SELECT 3
+Sound\Human_Sounds\Mage\Wzwh1yoe.wav
+Sound\Human_Sounds\Mage\Wzwh2yoe.wav
+Sound\Human_Sounds\Mage\Wzwh3yoe.wav
+P_OHORCE_COMMAND 3
+Sound\Human_Sounds\Mage\Wzwh1yoe.wav
+Sound\Human_Sounds\Mage\Wzwh2yoe.wav
+Sound\Human_Sounds\Mage\Wzwh3yoe.wav
+P_OHORCE_READY 1
+Sound\Human_Sounds\Mage\Wzrdyoe.wav
+P_OHORCE_DEATH 1
+Sound\Human_Sounds\Mage\Death.wav
+//==================================SHIPS
+P_SHIP_SELECT 5
+Sound\Human_Sounds\Ships\Hshppis1.wav
+Sound\Human_Sounds\Ships\Hshppis2.wav
+Sound\Human_Sounds\Ships\Hshppis3.wav
+Sound\Human_Sounds\Ships\Hshpwht1.wav
+Sound\Human_Sounds\Ships\Hshpwht2.wav
+P_SHIP_COMMAND 2
+Sound\Human_Sounds\Ships\Hshpwht3.wav
+Sound\Human_Sounds\Ships\Hshpyes1.wav
+P_SHIP_READY 1
+Sound\Human_Sounds\Ships\Hshpredy.wav
+P_SHIP_DEATH 1
+Sound\Human_Sounds\Ships\Shipsink.wav
+//==================================BUILDINGS
+P_OFLY 1
+Sound\Human_Sounds\Building\Aviary.wav
+P_OFOUND 1
+Sound\Human_Sounds\Building\Foundry.wav
+P_OFARM 1
+Sound\Human_Sounds\Building\Hfarm.wav
+P_OGNOMB 1
+Sound\Human_Sounds\Building\Inventor.wav
+P_OLUMBER 1
+Sound\Human_Sounds\Building\Lumbmill.wav
+P_OREFIN 1
+Sound\Human_Sounds\Building\Oilrefin.wav
+P_OPORT 1
+Sound\Human_Sounds\Building\Shipbell.wav
+P_OKUZN 1
+Sound\Human_Sounds\Building\Smith.wav
+P_OBIGFARM 1
+Sound\Human_Sounds\Building\Stables.wav
+P_OMAGB1 1
+Sound\Human_Sounds\Building\Wzrdtowr.wav
+SWORD 6
+Sound\Orc_Sounds\Miscellaneous\sword1.wav
+Sound\Orc_Sounds\Miscellaneous\sword2.wav
+Sound\Orc_Sounds\Miscellaneous\sword3.wav
+Sound\Orc_Sounds\Miscellaneous\sword1.wav
+Sound\Orc_Sounds\Miscellaneous\sword2.wav
+Sound\Orc_Sounds\Miscellaneous\sword3.wav
+TREE 4
+Sound\Human_Sounds\Miscellaneous\tree1.wav
+Sound\Human_Sounds\Miscellaneous\tree2.wav
+Sound\Human_Sounds\Miscellaneous\tree3.wav
+Sound\Human_Sounds\Miscellaneous\tree4.wav
+ORC-DIE 1
+Sound\Orc_Sounds\basic\odead.wav
+GOLD 1
+Sound\Orc_Sounds\Miscellaneous\sword1.wav
+ORC-DANGER 2
+Sound\Orc_Sounds\basic\ohelp1.wav
+Sound\Orc_Sounds\basic\ohelp2.wav
+BUILD-DIE 3
+Sound\Orc_Sounds\Miscellaneous\bldexpl1.wav
+Sound\Orc_Sounds\Miscellaneous\bldexpl2.wav
+Sound\Orc_Sounds\Miscellaneous\bldexpl3.wav
+ORC-VICTORY   1
+Sound\Orc_Sounds\Miscellaneous\orescue.wav
+CONSTRUCT	  1
+Sound\Orc_Sounds\Miscellaneous\constrct.wav
+ON_STONE_CLICK 3
+Sound\Stone1.wav
+Sound\Stone2.wav
+Sound\Stone3.wav
